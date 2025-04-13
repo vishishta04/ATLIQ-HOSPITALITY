@@ -1,6 +1,7 @@
 # ATLIQ HOSPITALITY
 ## Performance & Pricing Analysis Report
 ### Weekly View (W19 to W30)
+![Uploading image.png…]()
 
 ---
 
